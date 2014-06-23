@@ -16,4 +16,4 @@ WRJavaExchage
 * ExchangeServer：
     * 未使用powershell直接远程操作exchange
     * 将ExchangeServer部署到Exchange服务器，并以管理员身份运行
-    * 客户端调用test中的程序，执行相应操作
+    * 客户端调用ExchangeUtil中的程序，执行相应操作
